@@ -1,0 +1,121 @@
+  body
+  {
+    background-color: #181A2D;
+  }
+
+  h1, p, ul, ol, form, table
+  {
+    color: white;
+  }
+
+  a {
+    color: #FF212A;
+  }
+
+  a:hover {
+    color: #FF3B42;
+  }
+
+  hr {
+    border: dotted;
+    border-width: 5px 0 0 0;
+    width: 3%;
+    color: white;
+    margin-bottom: 8vh;
+  }
+  h3 {
+    color: white;
+    font-size: 23px;
+    margin-bottom: 8vh;
+    text-align: center;
+  }
+
+  ul {
+    margin-left: 3vw;
+    margin-bottom: 8vh;
+  }
+
+  textarea {
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+    padding-right: 20vw;
+    padding-bottom: 20vh;
+  }
+
+  .enem {
+    margin-left: 3vw;
+  }
+  .qualities {
+    margin-left: 3vw;
+  }
+
+  .blankbox {
+    border-radius: 10px;
+    border: none;
+    padding: 6px 0;
+  }
+
+/*Belong to the links that links to my other pages*/
+  .button1 {
+    background-color: #FF212A;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    margin: 4vh 0 4vh 4vw;
+    text-decoration: none;
+    padding: 10px 40px;
+    text-align: center;
+  }
+
+  .button1:hover {
+    background-color: #FF3B42;
+    color: white;
+  }
+
+  .content {
+    margin-left: 25vw;
+    margin-right: 25vw;
+  }
+
+  .enter-input {
+    margin-left: 15%;
+    margin-right: 20%;
+  }
+
+/*Belogns to the second "button" in the page*/
+  .ghost {
+    margin-left: 2vw;
+    border: solid 1px;
+    border-color: white;
+    background-color: #181A2D;
+    color: white;
+  }
+
+  .ghost:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+
+  .margin {
+    margin-bottom: 1vh;
+  }
+
+/*This belongs to the third hr in the page*/
+  .top-margin {
+    margin-top: 5vh;
+  }
+
+  .header-centered {
+    text-align: center;
+    margin-top: 6vh;
+    margin-bottom: 10vh;
+  }
+
+  .paragraph-size {
+    font-size: 18px;
+  }
+
+  .submit {
+    margin: 4vh 0 4vh 40vw;
+  }
